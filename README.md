@@ -2,11 +2,11 @@
 <h3 align="center">Data Analyst</h3>
 
 
-- ⚡ I’m currently learning **Power BI, Python, SQL, Excel**
+⚡ I’m currently learning **Power BI, Python, SQL, Excel**
 
-- 📫 Reach me at **aishumohan101@gmail.com**
+📫 Reach me at **aishumohan101@gmail.com**
 
-- ⚡ **A Fashion Technologist Turned Data Analyst**
+⚡ **A Fashion Technologist Turned Data Analyst**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="40" height="40"/> </a> 
