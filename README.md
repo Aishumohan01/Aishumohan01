@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst</h3>
 
 
-⚡ I’m currently learning **Power BI, Python, SQL, Excel**
+⚡ I know**Power BI, Python, SQL, Excel**
 
 📫 Reach me at **aishumohan101@gmail.com**
 
